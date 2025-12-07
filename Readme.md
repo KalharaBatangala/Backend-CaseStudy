@@ -9,7 +9,7 @@ A modern **full-stack user preferences management system** built with **Webix UI
 
 ## 🔗 Related Repository
 
-Backend (Django REST API):
+Frontend:
 
 https://github.com/KalharaBatangala/Frontend-CaseStudy
 
